@@ -3099,7 +3099,7 @@ __metadata:
     react-test-renderer: "npm:18.2.0"
     redent: "npm:^3.0.0"
     release-it: "npm:^17.1.1"
-    strip-ansi: "npm:^6.0.1"
+    strip-ansi: "npm:^7.1.0"
     typescript: "npm:^5.4.2"
   peerDependencies:
     jest: ">=28.0.0"
